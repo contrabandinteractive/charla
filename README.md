@@ -40,3 +40,11 @@ I learned a lot about the benefits of using CoinEx Smart Chain - which includes 
 ## What's next for Charla
 
 I'd like to expand on this proof-of-concept and make all the features you see listed on the left sidebar work, such as user messaging, profiles, lists, etc. There's still much to be done, but I felt that the work here demonstrated the core feature which is providing a way to create posts and interact with the smart contract that powers the dApp.
+
+## Smart contract
+
+The "charla server" folder holds files necessary to deploy the smart contract.
+
+## Client folder
+
+The "charla client" folder is a React frontend that can be used to interact with the smart contract.
